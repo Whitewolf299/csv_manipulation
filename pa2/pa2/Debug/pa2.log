@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(292): warning C4018: '<': signed/unsigned mismatch
+  pa2.vcxproj -> C:\Users\sylva\Desktop\my_github(Whitewolf299)\csv_manipulation\pa2\Debug\pa2.exe
