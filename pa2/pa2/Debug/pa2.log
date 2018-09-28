@@ -1,8 +1,9 @@
-﻿  main.cpp
-c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(59): warning C4018: '<': signed/unsigned mismatch
-c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(87): warning C4018: '<': signed/unsigned mismatch
-c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(96): warning C4018: '<': signed/unsigned mismatch
-c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(100): warning C4018: '<': signed/unsigned mismatch
-c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(134): warning C4018: '<': signed/unsigned mismatch
-c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(292): warning C4018: '<': signed/unsigned mismatch
-  pa2.vcxproj -> C:\Users\sylva\Desktop\my_github(Whitewolf299)\csv_manipulation\pa2\Debug\pa2.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (pa2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\sylva\desktop\my_github(whitewolf299)\csv_manipulation\pa2\pa2\main.cpp(317): warning C4018: '<': signed/unsigned mismatch
+  pa2.vcxproj -> C:\Users\sylva\Desktop\my_github(Whitewolf299)\csv_manipulation\pa2\Debug\pa1.exe

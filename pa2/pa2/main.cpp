@@ -224,9 +224,16 @@ int main()
 		{
 			lists.resize(lists.size() + 1);
 
+
 			getline(csv_file, input, ',');
 			item_name = input;
 			lists[i].set_name(item_name);
+
+			if (input == "")
+			{
+				lists.resize(lists.size() - 1);
+				break;
+			}
 
 			getline(csv_file, input, ',');
 			item_quantity = stoi(input);
@@ -235,8 +242,7 @@ int main()
 			getline(csv_file, input);
 			item_price = stoi(input);
 			lists[i].set_price(item_price);
-
-			i++;
+		i++;
 		}
 
 		csv_file.close();
@@ -312,7 +318,7 @@ int main()
 		{
 			output_file << lists[i].name << ",";
 			output_file << lists[i].quantity << ",";
-			output_file << lists[i].price << "," << "\n";
+			output_file << lists[i].price << "\n";
 
 			i++;
 		}
